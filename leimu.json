@@ -1,0 +1,18 @@
+[
+      {
+        "leimu_id":1,
+        "leimu_name":"早餐"
+      },
+      {
+        "leimu_id":2,
+        "leimu_name":"午餐"
+      },
+     {
+      "leimu_id":3,
+        "leimu_name":"晚餐"
+     },
+      {
+        "leimu_id":4,
+        "leimu_name":"夜宵"
+      }
+    ]
