@@ -1,0 +1,32 @@
+[
+  {
+    "admin_id": 16,
+    "userName": "张三",
+    "nationalCode": "510000",
+    "telNumber": "020-8116788",
+    "food_pprovinceNamerice": "广东省",
+    "cityName": "广州市",
+    "countyName": "珠海区",
+    "detailInfo": "新港中路397号"
+  },
+  {
+    "admin_id": 415,
+    "userName": "张四",
+    "nationalCode": "510099",
+    "telNumber": "020-8119998",
+    "food_pprovinceNamerice": "河北省",
+    "cityName": "石家庄市",
+    "countyName": "桥西区",
+    "detailInfo": "红旗大街397号"
+  },
+  {
+    "admin_id": 185,
+    "userName": "张五",
+    "nationalCode": "999000",
+    "telNumber": "020-0006788",
+    "food_pprovinceNamerice": "河北省",
+    "cityName": "石家庄市",
+    "countyName": "裕华区区",
+    "detailInfo": "建华南大街397号"
+  }
+]
